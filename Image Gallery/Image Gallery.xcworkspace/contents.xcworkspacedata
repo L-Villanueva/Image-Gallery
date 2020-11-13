@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Album+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Album+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Photos+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Photos+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
       location = "group:Image Gallery.xcodeproj">
    </FileRef>
    <FileRef
